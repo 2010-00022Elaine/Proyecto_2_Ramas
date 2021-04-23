@@ -1,0 +1,20 @@
+{
+  "name": "ramas",
+  "version": "1.0.0",
+  "description": "Esto es una pratica de creacion y fusion de ramas.",
+  "main": "Inicio.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ramas",
+    "fusion",
+    "menu",
+    "gym",
+    "pratica",
+    "git",
+    "npm"
+  ],
+  "author": "Elaine Checo",
+  "license": "ISC"
+}

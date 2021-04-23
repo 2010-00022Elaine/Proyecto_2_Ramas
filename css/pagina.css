@@ -1,0 +1,60 @@
+.Enlances {
+    width: 1455px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a:hover{
+color:#000000;
+}
+a{
+    color: #2212b1;
+    text-decoration:none;
+    padding: 26px 25px;
+}
+.h1inicio{
+    font-size: bold;
+    font-style: italic;
+    color: #4d76fa;
+    margin-left: 10px;
+}
+.h3inicio{
+    color: #43454b;
+    margin-left: 10px;
+}
+.pinicio{
+    color: #43454b;
+    margin-left: 13px;
+}
+.size{
+    margin: auto;
+    display: block;
+    width: 350px;
+    height: 350px;
+}
+.div{
+    float: left;
+    padding: 25px;
+    display: inline-block;
+    margin-left: 5px;
+}
+.fondo1{
+    background-color: rgb(254, 255, 188);
+}
+.fondo2{
+    background-color: rgb(254, 255, 188);
+}
+.imagen{
+    margin-right: 5px;
+    float: left;
+}
+.fondo3{
+    background-color: rgb(215, 250, 239);
+}
+.h2contacto{
+    margin: 55px;
+}
+.div2{
+    margin: 60px;
+}
